@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable-v24/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable-v24/ic_baseline_sticky_note_2_24.xml" value="0.15" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable-v24/ic_undraw_investment_re_rpk5.xml" value="0.15" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable-v24/onboard_indicator_inactive.xml" value="0.126" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable-v24/onboarding_indicator_active.xml" value="0.126" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable-v24/splash_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable/home.xml" value="0.1" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable/ic_back_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable/ic_user_profile_svgrepo_com.xml" value="0.1255" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable/next.xml" value="0.1505" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/drawable/styleicon.xml" value="0.1255" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/font/poppins.xml" value="0.2546875" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/activity_dashboard.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/activity_kategori.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/activity_notes.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/activity_save.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/activity_save_kategori.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/activity_update.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/activity_walkthrough.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/custom_design_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/item_container_onboarding.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/item_notes.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/single_view_item.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/layout/slider_layout.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Reza Kurnia/AndroidStudioProjects/UTSAKB10119289/app/src/main/res/menu/navigation_item.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
